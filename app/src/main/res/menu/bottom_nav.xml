@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_books"
+        android:icon="@drawable/ic_book_blue_30dp"
+        android:title="" />
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_dashboard_24dp"
+        android:title="" />
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_person_blue_30dp"
+        android:title="" />
+
+
+</menu>
